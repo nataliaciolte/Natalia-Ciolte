@@ -1,0 +1,567 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <meta charset="utf-8">
+  <title>Orar - Facultatea de Electronica, Telecomunicatii si Tehnologia Informatiei</title>
+  <base href="https://etti.utcluj.ro/">
+
+  <meta name="robots" content="index,follow">
+  <meta name="description" content="">
+  <meta name="keywords" content="">
+
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <link rel="stylesheet" href="assets/css/798ace93641c.css">
+    <script src="assets/js/24df2d83689b.js"></script>
+<link type="text/css" rel="stylesheet" href="css/css.css">
+<link href="css/base.css" rel="stylesheet">
+<link href="css/skeleton.css" rel="stylesheet">
+<link href="css/skeleton_layout.css" rel="stylesheet">
+<link href="css/Styles.css" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="css/meniu.css" >
+<!--[if lt IE 9]>
+			<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+  <!--[if lt IE 9]><script src="assets/html5shiv/3.6.2/html5shiv.js"></script><![endif]-->
+
+</head>
+<body id="top" class="win chrome webkit ch78">
+
+  
+  <div id="wrapper">
+
+    
+    
+    <div id="container">
+      <div id="main">
+        <div class="inside">
+          
+<div id="header-top">
+        <div class="container clearfix">
+        <div class="eight columns header-menu">
+        <a href="http://www.utcluj.ro"><img src="img/sigla_utcluj_lungime.png" style="margin-top:4px; margin-left:3px;"></a></div>
+            <div class="eight columns header-menu">
+                <ul>
+                <li><a href="http://old.etti.utcluj.ro" target="_blank">Site Vechi</a></li>
+                    <li><a href="#" target="_blank">English</a></li>
+                   
+                    <li><a href="http://www.utcluj.ro/telefoane/">Telefoane</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                    <li><a href="http://intranet.utcluj.ro/" target="_blank" class="intranet">Intranet</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+<div class="container clearfix">
+  <div class="four columns" style="margin-bottom:20px; margin-top:20px;">
+                <a href="/index.php"><img src="files/imag/etti.png" alt="Logo Facultatea de Electronica, Telecomunicatii si Tehnologia Informatiei"></a>
+               
+            </div>
+            
+            <div class="four columns" align = "center" style="margin-bottom:50px; margin-top:80px;">
+		
+			
+			<!-- <a href="https://etti.utcluj.ro/info-an-i.html" target="_blank"><img src="files/imag/deschid_gen.gif" alt="anI"></a>-->
+</div>
+ <!--<div class="six columns" style="margin-bottom:20px; margin-top:50px;">
+		<a href="https://etti.utcluj.ro/files/Studenti/Info/TestEngleza2018.pdf" target="_blank">
+<img src="files/imag/eng.gif" alt="anI: Test engleza"></a> -->
+
+
+		
+		
+			 <!--<a href="https://sset-etti.utcluj.ro" target="_blank"><img src="files/imag/sset.png" alt="sset" align = "right"></a>
+</div>
+            <!--
+			<a href="http://etti.utcluj.ro/anunturi/la-multi-ani-etti.html" target="_blank"><img src="files/imag/25.gif" alt="La multi ani, ETTI!"></a>
+			-->
+          
+             
+			  <!--
+             <br><br>
+             
+			 <a href="http://etti.utcluj.ro/alegeri1516.html"><img src="files/imag/alegeri.gif" alt="Alegeri 2015-2016"></a>
+			
+			 -->
+             <!--<a href="https://etti.utcluj.ro/info-an-i.html"><img src="files/imag/deschid_gen.gif" alt="Deschidere an universitar" ></a>
+            -->
+            	</div>
+			<!--
+             <a href="http://etti.utcluj.ro/anunturi/inaugurare-laborator-samsung.html"><img src="files/imag/LabSamsung.gif" alt="Samsung - Innovation Lab"></a>
+            -->
+            	
+          
+            
+       <!-- <div class="six columns" style="margin-bottom:20px; margin-top:60px;">
+            	<div class="mod_ac_search_index block">
+            	
+<form method="get" action="search.html"><div class="formbody">
+<input type="search" onfocus="if (this.value == '') {this.value=''}" onblur="if(this.value == '') { this.value=''}" value="" style="background: none repeat scroll 0 0 #484747 !important;
+    border: none; border-radius: 0 0 0 0; box-shadow: none; color: #D7D7D7; font-size: 14px; padding:0px; height:33px; padding-left:5px; margin:0px !important;
+  width: 250px; float: left; display: block; box-sizing: border-box;" name="keywords"> 
+    
+    <input type="submit" value="" style="background: url(img/inputsubmitsearch.png) no-repeat scroll center center #232323;
+    border: none;  margin:0px !important;border-radius: 0 0 0 0; font-size: 14px; height: 33px; width: 15%;"></div></form></div>
+            	
+            </div> -->
+			
+</div>
+<div class="container" style="z-index:1000;">
+<div class="containerMenu">
+<div class="header-container m-top-30 clearfix">
+<div class="header-logo-container ">
+<div class="logo-container">	
+<a href="http://www.utcluj.ro"><img src="img/mini-logo.png" class="logoMeniu"></a></div>
+</div>
+<div class="header-menu-container right">
+<!-- TOP MENU -->
+<nav id="main-nav">
+	<ul class="sf-menu clearfix">
+			<li>
+						<a href="#">ACASA</a>
+					</li>
+					<li>
+						<a href="#">PREZENTARE</a>
+						<ul class="fallback">
+							<li><a href="prezentare.html">Prezentare</a></li>
+							<li><a href="misiune-si-obiective.html">Misiune si obiective</a></li>
+							<li><a href="identitate-vizuala.html">Identitate vizuala</a></li>
+							<li><a href="documente.html">Documente</a></li>
+							<li><a href="hotarari-regulamente.html">Hotarari/Regulamente</a></li>
+							
+						</ul>
+					</li>
+					<li>
+						<a href="#">STRUCTURA</a>
+						<ul class="fallback">
+							<li><a href="organigrama.html">Organigrama</a></li>
+							<li><a href="consiliul-facultatii.html">Consiliul Facultatii</a></li>
+							<li><a href="birou-consiliu.html">Biroul CF</a></li>
+							<li><a href="comisii-cf.html">Comisii CF</a></li>
+							<li><a href="departamente.html">Departamente</a></li>
+							<li><a href="scoala-doctorala.html" target="_blank">Scoala doctorala</a></li>
+							<li><a href="secretariat.html">Secretariat</a></li>
+						</ul>
+					</li>
+					<li>
+						<a href="#">EDUCATIE</a>
+						<ul class="fallback">
+							<li><a href="oferta-educationala.html">Oferta educationala</a></li>
+							<li><a href="planuri-de-invatamant.html">Planuri de invatamant</a></li>	
+							<li><a href="finalizare-studii.html">Finalizare studii</a></li>
+							<!--<li><a href="practica.html">Practica studenti</a></li>-->
+							<hr>
+							<li><a href="orar.html">Orar</a></li>
+							<li><a href="sesiuni.html">Sesiuni</a></li>
+							<li><a href="consilieri.html">Consilieri de studii</a></li>
+							<!-- <li><a href="contracte-discipline.html">Contracte discipline</a></li>//-->
+						</ul>
+					</li>
+					<li>
+						<a href="#">ADMITERE</a>
+					       <ul class="fallback">
+							
+						
+							<li><a href="https://etti.utcluj.ro/admitere-licenta.html" target="_blank">Admitere Licenta</a></li>
+							
+							
+							<!-- <li><a href="http://www.etti-admitere.utcluj.ro" target="_blank">Admitere Licenta</a></li> -->
+						<li><a href="http://etti-master.utcluj.ro" target="_blank">Admitere Master</a></li>
+						<li><a href="https://etti.utcluj.ro/admitere_d/articles/inscriere_d.html" target="_blank">Admitere Doctorat</a></li>	
+							
+						</ul>
+					</li>
+					<li>
+						<a href="#">CERCETARE</a>
+						<ul class="fallback">
+							<li><a href="publicatii.html">Publicatii</a></li>
+							<li><a href="manifestari-stiintifice.html">Manifestari stiintifice</a></li>
+							<li><a href="domenii-cercetare.html">Domenii de cercetare</a></li>
+							<li><a href="structuri-cercetare.html">Structuri de cercetare</a></li>
+						</ul>
+					</li>
+					<li>
+						<a href="#">STUDENTI</a>
+						<ul class="fallback">
+							<li><a href="info-an-i.html">An I</a></li>
+							<li><a href="grupe-studenti.html">Repartizare specializari / Grupe</a></li>
+							<li><a href="reprezentanti-studenti.html">Reprezentanti</a></li>
+							<li><a target=_blank href="http://www.utcluj.ro/studenti/organizatii/">Organizatii</a></li>
+							<hr>
+							<li><a href="practica.html">Practica</a></li>
+							<li><a href="http://www.utcluj.ro/universitatea/despre/regulamente/regulamente-studenti/">Regulamente</a></li>
+							<li><a href="burse.html">Burse</a></li>
+							<li><a href="cazare.html">Cazare</a></li>
+							<li><a href="tabere.html">Tabere</a></li>
+							<hr>
+							<li><a href="concursuri-studenti.html">Rezultate concursuri</a></li>
+							<li><a target=_blank href="http://www.utcluj.ro/universitatea/facilitati/">Facilitati</a></li>
+						</ul>
+					</li>
+					<li>
+						<a href="#">INTERNATIONAL</a>
+						<ul class="fallback">
+							<li><a href="Curricula.html">Curricula</a></li>
+						</ul>
+					</li>
+					
+				<!--<li>
+						<a href="#">CONTACT</a>
+						<ul class="fallback">
+							<li><a href="secretariat.html">Secretariat</a></li>
+						</ul>
+					</li>-->
+					
+					<!--<li>
+						<a href="#">TUR VIRTUAL</a>
+					       <ul class="fallback">
+							<li><a href="http://old.utcluj.ro/tur/facultatea_de_electronica_telecomunicatii_si_tehnologia_informatiei.html" target="_blank">Facultate</a></li>
+							<li><a href="http://old.utcluj.ro/tur/" target="_blank">Universitate</a></li>
+							
+							
+						</ul>
+					</li>-->
+				</ul>
+</nav>							
+</div></div></div></div>
+<div width="100%"  class="redzone">
+  
+  <div class="container clearfix" id="anunturiperformante">
+        <div class="sixteen columns">
+          <div class="redzone_welcome"><h1>Bine ati venit la Facultatea de Electronica, Telecomunicatii si Tehnologia Informatiei - UTCN</h1></div>
+        </div>
+        
+    </div>
+  
+  <div class="container clearfix" id="anunturi" style="display: block;">
+       <div class="eight columns" style="margin-top: 8px; padding-bottom:2px; background: #960c00;">
+            <div class="four columns">
+            <h2 class="homepage">Legaturi rapide</h2>
+            <!--<div class="seven columns" style="color: #FFFFFF"> 	
+Facultatea de Electronică, Telecomunicații și Tehnologia Informației
+<p style="margin-top:6px;">Adresa: Str. George Barițiu, nr. 26, Cluj Napoca, România<p>
+<p style="margin-top:5px;">Decanat - Sala 357, Telefon: 0264-401223<p>
+<p style="margin-top:3px;">Secretariat decanat - Sala 357, Telefon: 0264-401224<p>
+<p style="margin-top:3px;">Secretariat studenți - Sala 358, <a href="secretariat.html">   <u> Telefon</u></a><p>
+<br>
+
+            </div>-->
+            <div class="seven columns" style="color: #FFFFFF"> 	
+<p style="margin-top:6px;"><a href="orar.html"> <u> Orar</u></a><p>
+<p style="margin-top:5px;"><a href="sesiuni.html"> <u> Sesiuni</u></a><p>
+<p style="margin-top:6px;"><a href="cazare.html"> <u> Cazare</u></a><p>
+<p style="margin-top:6px;"><a href="practica.html"> <u> Practică</u></a><p>
+<p style="margin-top:6px;"><a href="planuri-de-invatamant.html"> <u> Planuri de învățământ</u></a><p>
+<p style="margin-top:6px;"><a href="contact.html"> <u> Contact</u></a><p>
+   
+<br>
+
+            </div>
+            <div class="two columns"></div>
+              
+         </div>
+          
+          
+        </div>
+    <div class="eight columns" style="margin-top: 10px; padding-bottom:10px; background: #960c00;">
+      <h2 class="homepage" style="padding-left: 13px;">Anunturi</h2>
+      <div class="eight columns" style="color: #FFFFFF">
+  <!-- indexer::stop -->
+<div class="mod_newslist block">
+
+  
+  <div class="layout_simple block first even">
+  01.11.2019   <a  target="_blank" href="files/anunturi/HCA%20prelungire%20termen%20plata%20rata%201.pdf" title="Read more on HCA prelungire termen plata rata 1.pdf">HCA prelungire termen achitare rata 1</a></div><div class="layout_simple block odd">
+  31.10.2019   <a href="anunturi/sesiune-de-informare-erasmus-miercuri-6-nov-ora-14-sala-41.html" title="Read the article: Sesiune de informare ERASMUS+ miercuri 6 nov ora 14 sala 41">Sesiune de informare ERASMUS+ miercuri 6 nov ora 14 sala 41</a></div><div class="layout_simple block even">
+  17.10.2019   <a href="anunturi/program-de-burse-infineon-2019-termen-inscriere-30112019.html" title="Read the article: Program de burse Infineon 2019, termen inscriere 30.11.2019">Program de burse Infineon 2019, termen inscriere 30.11.2019</a></div><div class="layout_simple block odd">
+  16.10.2019   <a  target="_blank" href="files/anunturi/Event%20Poster%20_%20UTCN.pdf" title="Read more on Event Poster _ UTCN.pdf">Google Code Retreat - 31 oct 2019</a></div><div class="layout_simple block even">
+  14.10.2019   <a href="anunturi/semnare-contracte-an-ii-situatii-speciale-602.html" title="Read the article: Semnare contracte an II - situatii speciale">Semnare contracte an II - situatii speciale</a></div><div class="layout_simple block last odd">
+  14.10.2019   <a href="burse.html" title="Read the article: Burse de ajutor social sem I 2019-2020">Burse de ajutor social sem I 2019-2020</a></div>
+  
+</div>
+<!-- indexer::continue -->
+<br>
+<a href="anunturi.html">    Arhiva</a></div>
+
+		</div>
+		<!--
+		<br>
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<a href="http://etti.utcluj.ro/alegeri1516.html"><img src="files/imag/aleg.png" alt="Alegeri 2015-2016"></a>
+		-->
+	</div>
+</div>
+<div class="container clearfix" style="padding-top: 30px; padding-bottom:30px; background: rgba(255,255,255,0.35);">
+<div style="width:95%; margin: auto;">
+<div class="mod_article first last block" id="orar">
+
+  
+  
+<div class="ce_text first last block">
+
+      <h1>Orar</h1>
+  
+      <p style="margin-left: 8px;">»&nbsp;&nbsp;<a href="info-an-i.html">Deschiderea anului universitar</a></p>
+<p style="margin-left: 8px;">&nbsp;</p>
+<p style="margin-left: 8px;">»&nbsp;&nbsp;Studenții înmatriculați au posibilitatea dobândirii accesului individual, gratuit, la suita Microsoft Office 365 ProPlus (Office 2013 gratuit pe 5 dispozitive)&nbsp;(<a href="http://o365.utcluj.didatec.ro" target="_blank">aici</a>)</p>
+<p style="margin-left: 8px; margin-top: 8px;">»&nbsp;&nbsp;<a href="https://www.utcluj.ro/media/decisions/2019/06/26/STRUCTURA_2019_2020.pdf" target="_blank">Structura anului universitar</a></p>
+<p style="margin-left: 8px; margin-top: 8px;">»&nbsp;&nbsp;<a href="files/orar/Legenda_locatii.pdf" target="_blank">Legendă orar și locații săli<br><br></a></p>
+<p style="margin-left: 8px; margin-top: 8px;">»&nbsp;&nbsp;<a href="files/orar/SCHITE%20LOCURI%20AMFITEATRE.pdf" target="_blank">Schițe locuri amfiteatre</a></p>
+<p style="margin-left: 8px; margin-top: 8px;">&nbsp;</p>
+<p style="margin-left: 8px; margin-top: 8px;">»&nbsp;&nbsp;<a href="consilieri.html" target="_blank">Orar consiliere</a></p>
+<p style="margin-left: 8px; margin-top: 8px;">&nbsp;</p>
+<div class="fifteen columns">
+<div class="five columns alpha">
+<table>
+<tbody>
+<tr>
+<td colspan="5">
+<h5 style="text-align: center;">Orar licență semestrul I</h5>
+</td>
+</tr>
+<tr>
+<td style="text-align: center; background-color: #eee6ed;"><a href="files/orar/i_a.pdf" target="_blank">I A</a></td>
+<td style="text-align: center; background-color: #eee6ed;"><a href="files/orar/i_b.pdf" target="_blank">I B</a></td>
+<td style="text-align: center; background-color: #eee6ed;"><a href="files/orar/i_eng.pdf" target="_blank">I ENG</a>*</td>
+<td style="text-align: center; background-color: #eee6ed;">&nbsp;</td>
+<td style="text-align: center; background-color: #eee6ed;">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="files/orar/ii_a.pdf" target="_blank">II A</a></td>
+<td style="text-align: center;"><a href="files/orar/ii_b.pdf" target="_blank">II B</a>*</td>
+<td style="text-align: center;"><a href="files/orar/ii_eng.pdf" target="_blank">II ENG</a></td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="background-color: #eee6ed; text-align: center;"><a href="files/orar/iii_ea.pdf" target="_blank">III EA</a></td>
+<td style="background-color: #eee6ed; text-align: center;"><a href="files/orar/iii_tst.pdf" target="_blank">III TST</a></td>
+<td style="background-color: #eee6ed; text-align: center;"><a href="files/orar/iii_eng.pdf" target="_blank">III ENG</a></td>
+<td style="background-color: #eee6ed; text-align: center;"><a href="files/orar/iii_ie.pdf" target="_blank">III IE</a></td>
+<td style="background-color: #eee6ed; text-align: center;">&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;"><a href="files/orar/iv_ea_eng.pdf" target="_blank">IV EA</a></p>
+<p style="text-align: center;"><a href="files/orar/iv_ea_eng.pdf" target="_blank">RO + ENG</a></p>
+</td>
+<td>
+<p style="text-align: center;"><a href="files/orar/iv_tst_eng.pdf" target="_blank">IV TST</a></p>
+<p style="text-align: center;"><a href="files/orar/iv_tst_eng.pdf" target="_blank">RO + ENG</a></p>
+</td>
+<td style="text-align: center;"><a href="files/orar/iv_ie.pdf" target="_blank">IV IE</a></td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+</div>
+<div class="five columns omega">
+<table>
+<tbody>
+<tr>
+<td colspan="3">
+<h5 style="text-align: center;">Orar master semestrul I</h5>
+</td>
+</tr>
+<tr>
+<td style="text-align: center; background-color: #eee6ed;"><a href="files/orar/m_i_csi.pdf" target="_blank">I CSI</a></td>
+<td style="text-align: center; background-color: #eee6ed;"><a href="files/orar/m_ii_csi.pdf" target="_blank">II CSI</a></td>
+<td style="text-align: center; background-color: #eee6ed;">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="files/orar/m_i_ie.pdf" target="_blank">I IE</a></td>
+<td style="text-align: center;"><a href="files/orar/m_ii_ie.pdf" target="_blank">II IE</a></td>
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="background-color: #eee6ed; text-align: center;"><a href="files/orar/m_i_tm.pdf" target="_blank">I TM</a></td>
+<td style="background-color: #eee6ed; text-align: center;"><a href="files/orar/m_ii_tm.pdf" target="_blank">II TM</a></td>
+<td style="background-color: #eee6ed; text-align: center;">&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;"><a href="files/orar/m_i_tc.pdf" target="_blank">I TC</a></p>
+</td>
+<td>
+<p style="text-align: center;"><a href="files/orar/m_ii_tc.pdf" target="_blank">II TC</a></p>
+</td>
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="background-color: #eee6ed;">
+<p style="text-align: center;"><a href="files/orar/m_i_tsaea.pdf" target="_blank">I TSAeA</a></p>
+</td>
+<td style="background-color: #eee6ed; text-align: center;"><a href="files/orar/m_ii_tsaea.pdf" target="_blank">II TSAeA</a>*</td>
+<td style="background-color: #eee6ed;">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="files/orar/m_i_sicas.pdf" target="_blank">I SICAS</a></td>
+<td style="text-align: center;"><a href="files/orar/m_ii_sicas.pdf" target="_blank">II SICAS</a></td>
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="background-color: #eee6ed; text-align: center;"><a href="files/orar/m_i_psi.pdf" target="_blank">I PSI</a>*</td>
+<td style="background-color: #eee6ed; text-align: center;"><a href="files/orar/m_ii_psi.pdf" target="_blank">II PSI</a></td>
+<td style="background-color: #eee6ed;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: left;"><br><br></p>
+<p style="text-align: right;">&nbsp;</p>
+<p style="text-align: right;">&nbsp;*actualizat 30 octombrie 2019</p>
+<p style="text-align: right;">&nbsp;actualizat 1 octombrie 2019&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;</p>
+<p style="text-align: right;">&nbsp; &nbsp; &nbsp;&nbsp;</p>
+<p>&nbsp;</p>
+</div>
+</div>  
+  
+  
+</div>
+
+  
+</div>
+
+</div></div>
+<div id="footer">
+    <div class="container">
+        <div class="clearfix">
+            <div class="eight columns" style="padding-bottom: 20px;">
+                <div style="padding:3px 0px 3px 70px;background:url('../img/logo-utcn-footer.png') center left no-repeat;">
+                    <h3 style="padding-bottom:2px;">Facultatile noastre</h3>
+                    Lista facultatilor Universitatii Tehnice din Cluj-Napoca
+                </div>
+                <div class="line" style="margin-bottom:5px;"></div>
+                <div class="clearfix">
+                    <div class="four columns alpha">
+                        <h3>Cluj-Napoca</h3>
+                        <ul>
+                            
+                                <li><a href="http://fau.utcluj.ro" target="_blank">Facultatea de Arhitectura si Urbanism</a></li>
+                            
+                                <li><a href="http://ac.utcluj.ro" target="_blank">Facultatea de Automatica si Calculatoare</a></li>
+                            
+                                <li><a href="http://constructii.utcluj.ro" target="_blank">Facultatea de Constructii</a></li>
+                            
+                                <li><a href="http://cm.utcluj.ro" target="_blank">Facultatea de Constructii de Masini</a></li>
+                            
+                                <li><a href="http://etti.utcluj.ro" target="_blank">Facultatea de Electronica, Telecomunicatii si Tehnologia Informatiei</a></li>
+                            
+                                <li><a href="http://imm.utcluj.ro" target="_blank">Facultatea de Ingineria Materialelor si a Mediului</a></li>
+                            
+                                <li><a href="http://ie.utcluj.ro" target="_blank">Facultatea de Inginerie Electrica</a></li>
+                            
+                                <li><a href="http://instalatii.utcluj.ro" target="_blank">Facultatea de Instalatii</a></li>
+                            
+                                <li><a href="http://mecanica.utcluj.ro" target="_blank">Facultatea de Mecanica</a></li>
+                            
+                        </ul>
+                    </div>
+                    <div class="four columns omega">
+                        <h3>Centrul Universitar Nord Baia-Mare</h3>
+                        <ul>
+                            
+                                <li><a href="http://inginerie.utcluj.ro/" target="_blank">Facultatea de Inginerie</a></li>
+                            
+                                <li><a href="http://litere.utcluj.ro" target="_blank">Facultatea de Litere</a></li>
+                                                        
+                                <li><a href="http://stiinte.utcluj.ro" target="_blank">Facultatea de Stiinte</a></li>
+                            
+                        </ul>
+                        <h3>Extensii</h3>
+                        <ul>
+                            
+                                <li><a href="#" target="_blank">Alba Iulia</a></li>
+                            
+                                <li><a href="#" target="_blank">Bistrita</a></li>
+                            
+                                <li><a href="#" target="_blank">Satu Mare</a></li>
+                            
+                                <li><a href="#" target="_blank">Zalau</a></li>
+                            
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="eight columns" style="padding-bottom: 20px;">
+                <div style="padding:3px 0px 3px 70px;background:url('../img/studenti-footer.png') center left no-repeat;">
+                    <h3 style="padding-bottom:2px;">Studentii nostri</h3>
+                    Lista celor mai utilizate legaturi de catre studenti
+                </div>
+                <div class="line" style="margin-bottom:5px;"></div>
+                <div class="clearfix">
+                    <div class="four columns alpha">
+                        <h3>Pentru studenti</h3>
+                        <ul>
+                            <li><a href="http://www.utcluj.ro/admitere/licenta/">Admitere licenta</a></li>
+                            <li><a href="http://www.utcluj.ro/admitere/master/">Admitere master</a></li>
+                            <li><a href="http://www.utcluj.ro/admitere/doctorat/">Admitere doctorat</a></li>
+                            <li>&nbsp;</li>
+                            <li><a href="http://www.utcluj.ro/studenti/portal">Portal studenti</a></li>
+                            <li><a href="http://www.utcluj.ro/studenti/organizatii/">Organizatii studentesti</a></li>
+                            <li><a href="http://www.utcluj.ro/studenti/regulamente/">Regulamente studenti</a></li>
+                            <li><a href="http://www.utcluj.ro/campus/">Campusul studentesc</a></li>
+                            <li><a href="http://utcluj.ro/biblioteca" target="_blank">Biblioteca</a></li>
+                            <li><a href="http://www.utcluj.ro/studenti/viata-studenteasca/">Viata studenteasca</a></li>
+                        </ul>
+                    </div>
+                    <div class="four columns omega">
+                        <br/><br/>
+                        <a href="http://www.eua.be/iep/Home.aspx" target="_blank"><img src="https://www.utcluj.ro/static/banners/certificare.png" alt="EUA-Institutional Evaluation Programme" /></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="sixteen columns"><div class="line" style="margin-top:0px"></div></div>
+
+        <div class="sixteen columns footer-bottom">
+            <a href="http://www.utcluj.ro">UTCN</a> |
+            <a href="http://www.utcluj.ro/universitatea/despre/informatii-publice/">Informatii Publice</a> |
+            <a href="http://www.utcluj.ro/universitatea/despre/regulamente/">Regulamente si proceduri</a> |
+            <a href="http://www.utcluj.ro/telefoane/">Telefoane</a> |
+          <div style="padding-top:8px;">© 2017 - Universitatea Tehnica din Cluj-Napoca</div>
+        </div>
+    </div>
+</div>
+<div id="footer2">
+    <div class="container clearfix">
+        <div class="eight columns" style="padding-top: 5px;">
+
+ </div>
+        <div class="eight columns" style="text-align: right;">
+            <span class="red">Ne puteti urmari si pe:</span>
+            <a href="http://www.facebook.com/utcluj.ro" target="_blank"><img src="../img/facebook.png" alt="utcn facebook" style="vertical-align: middle;" /></a>
+            <a href="http://www.twitter.com/utcluj" target="_blank"><img src="../img/twitter.png" alt="utcn titter" style="vertical-align: middle;" /></a>
+        </div>
+    </div>
+</div>        </div>
+              </div>
+
+      
+          </div>
+
+    
+    
+  </div>
+
+  
+  
+      <script>
+              setTimeout(function(){(new Request({url:"system/cron/cron.txt",onComplete:function(e){e||(e=0),parseInt(e)<Math.round(+(new Date)/1e3)-86400&&(new Request({url:"system/cron/cron.php"})).get()}})).get()},5e3)
+          </script>
+  
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	  ga('create', 'UA-41761477-7', 'auto');
+	  ga('send', 'pageview');
+
+	</script>
+
+</body>
+</html>
